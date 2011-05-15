@@ -1,0 +1,11 @@
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+
+#do not commit eclipse stuff
+.metadata/
+.idea/
+
+#do not commit netbeans stuff
+nbproject/
